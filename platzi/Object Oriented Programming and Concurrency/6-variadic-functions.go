@@ -29,6 +29,6 @@ func main() {
 	fmt.Print("\n")
 	fmt.Print(getValues(2))
 	fmt.Print("\n")
-	single, doblue, div := getValue(3)
-	fmt.Print(single, doblue, div)
+	singl1e, doblue, div := getValue(3)
+	fmt.Print(singl1e, doblue, div)
 }
