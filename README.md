@@ -11,6 +11,7 @@ Welcome to my repository 🎉. Here, I'm learning Go (**Golang**) through **free
 🌟 **Start with the `free-code-camp` folder**. It contains foundational exercises to get started with Go.
 
 ### Main folders:
+
 - `free-code-camp/`: Exercises and examples from the freeCodeCamp course in Spanish.
 - `platzi/`: Projects and notes from the Platzi Backend with Go path.
 
@@ -18,14 +19,17 @@ Welcome to my repository 🎉. Here, I'm learning Go (**Golang**) through **free
 
 ## 📘 What You’ll Find
 
-✅ **Exercises and examples** to practice both basic and advanced Go concepts.  
+✅ **Exercises and examples** to practice both basic and advanced Go concepts.
+
+> **Note:** The 90% of the code in this repository comes from the Udemy course [Go de cero a profesional - Bases, REST & Microservicios](https://www.udemy.com/course/go-de-cero-a-profesional-bases-rest-microservicios/).
 
 ---
 
 ## 🔗 Resources
 
-📚 Learn with me using these resources:  
-- [🎥 Go Course in Spanish - freeCodeCamp](https://www.youtube.com/watch?v=L_yYVEC8GZo)  
+📚 Learn with me using these resources:
+
+- [🎥 Go Course in Spanish - freeCodeCamp](https://www.youtube.com/watch?v=L_yYVEC8GZo)
 - [🌐 Backend with Go Path - Platzi](https://platzi.com/ruta/backend-go/)
 
 ---
