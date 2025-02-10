@@ -1,0 +1,2 @@
+Successful: 2025/02/05 14:02:52 main.go:22: Logging to a file
+Error: 2025/02/05 14:02:52 main.go:26: This is an error message

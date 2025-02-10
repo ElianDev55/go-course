@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main () {
+func main() {
 
 	license := true
 	age := 20
